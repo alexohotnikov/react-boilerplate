@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.Greet__msg {
+  width: 100%;
+  text-align: center;
+
+  span {
+    padding-left: 10px;
+  }
+}
